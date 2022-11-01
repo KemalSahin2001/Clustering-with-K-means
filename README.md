@@ -1,2 +1,2 @@
 # Clustering-with-K-means
-## Ecodation Artificial Intelligence course internship assignment
+## Ecodation Artificial Intelligence Course internship assignment
